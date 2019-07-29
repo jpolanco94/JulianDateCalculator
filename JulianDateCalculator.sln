@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JulianDateCalculator", "JulianDateCalculator.csproj", "{BC4EBE44-EE4B-4854-A5B1-8AC4793E783F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JulianDateCalculatorTest", "..\JulianDateCalculatorTest\JulianDateCalculatorTest.csproj", "{27C5F587-82EE-4792-A19D-B60C0241A7B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4EBE44-EE4B-4854-A5B1-8AC4793E783F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4EBE44-EE4B-4854-A5B1-8AC4793E783F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4EBE44-EE4B-4854-A5B1-8AC4793E783F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4EBE44-EE4B-4854-A5B1-8AC4793E783F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C5F587-82EE-4792-A19D-B60C0241A7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C5F587-82EE-4792-A19D-B60C0241A7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C5F587-82EE-4792-A19D-B60C0241A7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C5F587-82EE-4792-A19D-B60C0241A7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CEDE8BB-9EB4-4ACD-98A4-81EE80E302AE}
+	EndGlobalSection
+EndGlobal
